@@ -1,0 +1,10 @@
+{
+  "name": "kakktus-scheduling-core",
+  "version": "1.0.0",
+  "description": "Availability engine and language detection behind Kakktus, a CRM with a WhatsApp AI assistant for appointment businesses.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" },
+  "author": "Sergio Cuesta León",
+  "private": true
+}
